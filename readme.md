@@ -1,4 +1,4 @@
-# Bonjour, je suis **1c2t1z**.
+# Bonjour, je suis *1c2t1z*.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre_nom/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/votre_nom)
@@ -6,14 +6,26 @@
 <p align="center">
   <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/e386fa27-4f58-4d2b-8f61-d02c09685d73" alt="Description de l'image">
 </p>
-Je suis un(e) développeur(euse) passionné(e) avec une expérience approfondie dans [domaines d'expertise]. J'adore résoudre des problèmes complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
+Je suis un développeur passionné avec une expérience approfondie dans les languages scripts, le hardware, la résolution de panne, les chats, le magret de canard et le vélo. J'adore résoudre des problèmes complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
 
-## Compétences
+## Outils
 
-- Langages de programmation : [Langage 1], [Langage 2], [Langage 3]
-- Frameworks et bibliothèques : [Framework 1], [Bibliothèque 1], [Framework 2]
-- Outils et technologies : [Outil 1], [Technologie 1], [Outil 2]
-- Bases de données : [Base de données 1], [Base de données 2], [Base de données 3]
+- Langages de programmation préféré (par ordre décroissant 😅) :
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" alt="Logo MS-DOS" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Logo Bash" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Logo HTML" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Logo CSS" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Logo JavaScript" width="50" height="50">
+  </p>
+- Frameworks et bibliothèques (toujours par ordre décroissant) :
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg" alt="Logo MS-DOS" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Logo Bash" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
+  </p>
+  Technologies / Logiciels (je les aimes et les utilises tous 💙 :
 
 ## Projets Récents
 
@@ -43,9 +55,11 @@ Je suis un(e) développeur(euse) passionné(e) avec une expérience approfondie 
 
 ## Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true&theme=dark)
+J'avais les mêmes notes à l'école profitez de mon talent
 
-## Articles et Publications
+<div align="center">
+  
+  [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=1c2t1z)](https://github.com/1c2t1z)
 
 J'ai également partagé mes connaissances à travers des articles et des publications. Voici quelques-uns de mes articles populaires :
 

@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/e386fa27-4f58-4d2b-8f61-d02c09685d73" alt="Description de l'image">
 </p>
+
 Je suis un développeur passionné avec une expérience approfondie dans les languages scripts, le hardware, la résolution de panne, les chats, le magret de canard et le vélo. J'adore résoudre des problèmes complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
 
 ## Outils
@@ -25,7 +26,7 @@ Je suis un développeur passionné avec une expérience approfondie dans les lan
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Logo Bash" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
   </p>
-  Technologies / Logiciels (je les aimes et les utilises tous 💙 :
+- Technologies / Logiciels (je les aimes et les utilises tous 💙 :
 
 ## Projets Récents
 

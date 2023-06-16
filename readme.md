@@ -1,7 +1,18 @@
+<div align="center">
+  
 # Bonjour, je suis *1c2t1z*.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-9e2a2b?style=flat-round&logo=dev.to&logoColor=gold)](https://www.cerber.re/)
-[![Matrix](https://img.shields.io/badge/-Matrix-000000?style=flat-round&logo=matrix&logoColor=white)](https://app.element.io/#/user/@1c2t1z:matrix.org)
+</div>
+
+<div align="center">
+
+[![Matrix](https://img.shields.io/badge/-Matrix-111111?style=flat-round&logo=matrix&logoColor=white)](https://app.element.io/#/user/@1c2t1z:matrix.org)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-3088D4?style=flat-round&logo=mastodon&logoColor=white)](https://mamot.fr/@1C2T1Z)
+[![Mail](https://img.shields.io/badge/-Email-8B89CC?style=flat-round&logo=protonmail&logoColor=white)](mailto:1c2t1z@crb.re)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-round&logo=discord&logoColor=white)](https://discord.gg/N8B8Y6HFqW)
+[![Website](https://img.shields.io/badge/-Website-111111?style=flat-round&logo=internet-explorer&logoColor=cyan)](https://www.cerber.re)
+
+</div>
 
 <p align="center">
   <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/e386fa27-4f58-4d2b-8f61-d02c09685d73" alt="Description de l'image">
@@ -11,8 +22,15 @@
 
 <details>
   <summary>La véritée</summary>
+  <br>
     Je suis un développeur passionné avec une expérience approfondie dans les languages scripts, le hardware, la résolution de panne, les chats, le magret de canard et le vélo. J'adore résoudre des problèmes      complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
 </details>
+<details>
+  <summary>La véritée</summary>
+  <br>
+    Je suis un développeur passionné avec une expérience approfondie dans les languages scripts, le hardware, la résolution de panne, les chats, le magret de canard et le vélo. J'adore résoudre des problèmes      complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
+</details>
+
 
 ## Outils
 

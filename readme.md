@@ -1,4 +1,4 @@
-# Bonjour, je suis **1c2t1z**.
+# Bonjour, je suis 1c2t1z.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre_nom/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/votre_nom)
@@ -6,11 +6,13 @@
 <p align="center">
   <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/e386fa27-4f58-4d2b-8f61-d02c09685d73" alt="Description de l'image">
 </p>
-Je suis un(e) développeur(euse) passionné(e) avec une expérience approfondie dans [domaines d'expertise]. J'adore résoudre des problèmes complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
 
 ## Compétences
 
-- Langages de programmation : [Langage 1], [Langage 2], [Langage 3]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Logo HTML" width="50" height="50">
+</p>
+- Langages de programmation : Batch, PowerShell, Bash, HTML, CSS, JS
 - Frameworks et bibliothèques : [Framework 1], [Bibliothèque 1], [Framework 2]
 - Outils et technologies : [Outil 1], [Technologie 1], [Outil 2]
 - Bases de données : [Base de données 1], [Base de données 2], [Base de données 3]

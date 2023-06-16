@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre_nom/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/votre_nom)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-9e2a2b?style=flat-square&logo=dev.to&logoColor=white)](https://www.votre-portfolio.com)
-<center>
-  ![Header](https://github.com/1c2t1z/1c2t1z/assets/95414249/e386fa27-4f58-4d2b-8f61-d02c09685d73)
-</center>
+<p align="center">
+  <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/e386fa27-4f58-4d2b-8f61-d02c09685d73" alt="Description de l'image">
+</p>
 Je suis un(e) développeur(euse) passionné(e) avec une expérience approfondie dans [domaines d'expertise]. J'adore résoudre des problèmes complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
 
 ## Compétences

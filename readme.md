@@ -54,4 +54,3 @@ N'hésitez pas à consulter mon [portfolio](https://www.votre-portfolio.com) pou
 - 🐦 Twitter : [@VotreNom](https://twitter.com/votre_nom)
 
 N'hésitez pas à me contacter si vous avez des questions, des opportunités de collaboration ou si vous souhaitez simplement discuter !
-

@@ -18,19 +18,16 @@
   <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/e386fa27-4f58-4d2b-8f61-d02c09685d73" alt="Description de l'image">
 </p>
 
-## Présentation
+## Stats
+<div align="center">
 
-<details>
-  <summary>La véritée</summary>
-  <br>
-    Je suis un développeur passionné avec une expérience approfondie dans les languages scripts, le hardware, la résolution de panne, les chats, le magret de canard et le vélo. J'adore résoudre des problèmes      complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
-</details>
-<details>
-  <summary>La véritée</summary>
-  <br>
-    Je suis un développeur passionné avec une expérience approfondie dans les languages scripts, le hardware, la résolution de panne, les chats, le magret de canard et le vélo. J'adore résoudre des problèmes      complexes et créer des solutions innovantes. Mon objectif est de partager mes connaissances et d'inspirer d'autres développeurs.
-</details>
+![GitHub metrics](https://metrics.lecoq.io/1c2t1z)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1c2t1z)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=1c2t1z)
+
+</div>
 
 ## Outils
 
@@ -38,55 +35,19 @@ Voici les divers outils, logiciel et compétences/connaisances que j'utilise pou
 
 - Langages de programmation préféré (par ordre décroissant 😅) :
   <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" alt="Logo MS-DOS" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Logo Bash" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Logo HTML" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Logo CSS" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" alt="Logo MS-DOS" width="50" height="50">
+    <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Logo Bash" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Logo HTML" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Logo CSS" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Logo JavaScript" width="50" height="50">
   </p>
 - Frameworks et bibliothèques (toujours par ordre décroissant 😸 ) :
   <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg" alt="Logo MS-DOS" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Logo Bash" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg" alt="Logo MS-DOS" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Logo Bash" width="50" height="50">
     <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
   </p>
-- Technologies / Logiciels (je les aimes et les utilises tous 💙 :
-
-## Projets Récents
-
-### [Projet 1](lien_vers_le_projet)
-
-![Projet 1](https://path/vers/votre/image/projet1.gif)
-
-[Courte description du projet]
-
-### [Projet 2](lien_vers_le_projet)
-
-![Projet 2](https://path/vers/votre/image/projet2.gif)
-
-[Courte description du projet]
-
-### [Projet 3](lien_vers_le_projet)
-
-![Projet 3](https://path/vers/votre/image/projet3.gif)
-
-[Courte description du projet]
-
-## Contributions Open Source
-
-- [Nom du projet open source 1](lien_vers_la_contribution) - Brève description de la contribution.
-- [Nom du projet open source 2](lien_vers_la_contribution) - Brève description de la contribution.
-- [Nom du projet open source 3](lien_vers_la_contribution) - Brève description de la contribution.
-
-## Statistiques GitHub
-
-J'avais les mêmes notes à l'école profitez de mon talent :
-
-<div align="center">
-  
-  [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=1c2t1z)](https://github.com/1c2t1z)
-
-</div>
+- Technologies / Logiciels :
 
 ![Footer](https://path/vers/votre/image/footer.gif)

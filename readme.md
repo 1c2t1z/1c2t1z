@@ -56,3 +56,16 @@
   </p>
 - Technologies / Logiciels :
 </div></details></div>
+
+<div align="center">
+  
+## I'm a bug hunter
+  <p align="center">
+    <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/069633a7-a014-4b21-a723-d09cb8ef171f" alt="Logo MS-DOS" width="140" height="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/350da253-fd9c-47b3-bf8c-e31973a94223" alt="Logo MS-DOS" width="35" height="25">
+    
+  </p>
+</div>
+
+

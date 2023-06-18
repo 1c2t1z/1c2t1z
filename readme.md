@@ -55,8 +55,4 @@
     <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
   </p>
 - Technologies / Logiciels :
-</div></details>
-</div>
-
-![231573-mushishi-ginko](https://github.com/1c2t1z/1c2t1z/assets/95414249/67f8a640-eb6c-4648-9b68-cde49419304f)
-
+</div></details></div>

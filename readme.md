@@ -1,6 +1,6 @@
 <div align="center">
   
-# Bonjour, je suis *1c2t1z*.
+# Bonjour, je suis <ins>*1c2t1z*</ins>.
 
 </div>
 
@@ -11,27 +11,33 @@
 [![Mail](https://img.shields.io/badge/-Email-8B89CC?style=flat-round&logo=protonmail&logoColor=white)](mailto:1c2t1z@crb.re)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-round&logo=discord&logoColor=white)](https://discord.gg/N8B8Y6HFqW)
 [![Website](https://img.shields.io/badge/-Website-111111?style=flat-round&logo=internet-explorer&logoColor=cyan)](https://www.cerber.re)
-
 </div>
 
 <p align="center">
   <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/e386fa27-4f58-4d2b-8f61-d02c09685d73" alt="Description de l'image">
 </p>
 
-## Stats
+<div align="center">
+<details>
+<summary markdown="span">Stats 📈 </summary>
+
 <div align="center">
 
-![GitHub metrics](https://metrics.lecoq.io/1c2t1z)  
+### Global
+![GitHub metrics](https://metrics.lecoq.io/1c2t1z)
+---
+### Combo
+[![GitHub Streak](https://streak-stats.demolab.com?user=1c2t1z&theme=transparent&hide_border=true&border_radius=15&card_width=500&fire=F44336&ring=2196F3&currStreakNum=F44336&dates=03A9F4&currStreakLabel=009688&sideLabels=009688&sideNums=F44336)](https://git.io/streak-stats)
+</div></details></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1c2t1z)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+<details>
+<summary markdown="span">Outils 🛠️ (en cours de creation)</summary>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=1c2t1z)
+### Outils
 
-</div>
-
-## Outils
-
-Voici les divers outils, logiciel et compétences/connaisances que j'utilise pour créer des projets.
+<div align="justify">
 
 - Langages de programmation préféré (par ordre décroissant 😅) :
   <p align="left">
@@ -49,5 +55,8 @@ Voici les divers outils, logiciel et compétences/connaisances que j'utilise pou
     <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
   </p>
 - Technologies / Logiciels :
+</div></details>
+</div>
 
-![Footer](https://path/vers/votre/image/footer.gif)
+![231573-mushishi-ginko](https://github.com/1c2t1z/1c2t1z/assets/95414249/67f8a640-eb6c-4648-9b68-cde49419304f)
+

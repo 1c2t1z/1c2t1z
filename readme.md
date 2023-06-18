@@ -64,8 +64,26 @@
     <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/069633a7-a014-4b21-a723-d09cb8ef171f" alt="Logo MS-DOS" width="140" height="100">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/350da253-fd9c-47b3-bf8c-e31973a94223" alt="Logo MS-DOS" width="35" height="25">
-    
   </p>
 </div>
 
+<div align="center">
+  
+### Not like Homer Simpson
 
+  <p align="center">
+        <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/ee9bfb55-559f-45ca-8236-81689040f3f2" alt="Logo MS-DOS" width="250" height="200">
+  </p>
+</div>
+
+#### Credit :
+https://shields.io/ (Under H1 social logos)
+<br>
+https://streak-stats.demolab.com/demo/ (Stats combo)
+<br>
+https://www.deviantart.com/waluigifan32/art/JoeyTheCrafter245-Dream-Team-GIF-Request-572755793 (JoeyTheCrafter245 Dream Team GIF (Request) by Waluigifan32)
+<br>
+https://www.deviantart.com/chubbypoulpy/art/Another-little-beetle-880217222 (Another little beetle by Chubbypoulpy)
+<br>
+https://giphy.com/gifs/bug-UAUtB4Oi9U4EM (Homer Bugs)
+<br>

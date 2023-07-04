@@ -1,6 +1,6 @@
 <div align="center">
   
-# Bonjour, je suis <ins>*1c2t1z*</ins>.
+# Bonjour, I'm <ins>*1c2t1z*</ins>.
 
 </div>
 

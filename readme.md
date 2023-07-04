@@ -18,34 +18,6 @@
 </p>
 
 <div align="center">
-  
-<details>
-<summary markdown="span">My tools 🛠️ (en cours de creation)</summary>
-
-### Outils
-
-<div align="justify">
-
-- Langages de programmation préféré (par ordre décroissant 😅) :
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" alt="Logo MS-DOS" width="30" height="30">
-    <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Logo Bash" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Logo HTML" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Logo CSS" width="50" height="50">
-  </p>
-- Frameworks et bibliothèques (toujours par ordre décroissant 😸 ) :
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg" alt="Logo MS-DOS" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Logo Bash" width="50" height="50">
-    <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
-  </p>
-- Technologies / Logiciels :
-</div></details></div>
-
-<div align="center">
-
-<div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />

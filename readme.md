@@ -63,15 +63,3 @@
         <img src="https://github.com/1c2t1z/1c2t1z/assets/95414249/ee9bfb55-559f-45ca-8236-81689040f3f2" alt="Logo MS-DOS" width="250" height="200">
   </p>
 </div>
-
-#### Credit :
-https://shields.io/ (Under H1 social logos)
-<br>
-https://streak-stats.demolab.com/demo/ (Stats combo)
-<br>
-https://www.deviantart.com/waluigifan32/art/JoeyTheCrafter245-Dream-Team-GIF-Request-572755793 (JoeyTheCrafter245 Dream Team GIF (Request) by Waluigifan32)
-<br>
-https://www.deviantart.com/chubbypoulpy/art/Another-little-beetle-880217222 (Another little beetle by Chubbypoulpy)
-<br>
-https://giphy.com/gifs/bug-UAUtB4Oi9U4EM (Homer Bugs)
-<br>

@@ -4,6 +4,8 @@
 
 </div>
 
+![favicon](https://github.com/1c2t1z/1c2t1z/assets/95414249/cd71ce86-1984-4f57-a883-849a196ca771)
+
 <div align="center">
 
 [![Matrix](https://img.shields.io/badge/-Matrix-111111?style=flat-round&logo=matrix&logoColor=white)](https://app.element.io/#/user/@1c2t1z:matrix.org)

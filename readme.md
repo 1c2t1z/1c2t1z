@@ -27,7 +27,7 @@
 <div align="justify">
 
 - Langages de programmation préféré (par ordre décroissant 😅) :
-  <p align="left">
+  <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" alt="Logo MS-DOS" width="50" height="50">
     <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Logo Bash" width="50" height="50">

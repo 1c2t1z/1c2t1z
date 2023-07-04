@@ -20,7 +20,7 @@
 <div align="center">
   
 <details>
-<summary markdown="span">Outils 🛠️ (en cours de creation)</summary>
+<summary markdown="span">My tools 🛠️ (en cours de creation)</summary>
 
 ### Outils
 
@@ -33,11 +33,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Logo Bash" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Logo HTML" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Logo CSS" width="50" height="50">
-    	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Logo JavaScript" width="50" height="50">
   </p>
 - Frameworks et bibliothèques (toujours par ordre décroissant 😸 ) :
-  <p align="left">
+  <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg" alt="Logo MS-DOS" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Logo Bash" width="50" height="50">
     <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="Logo Batch" width="50" height="50">

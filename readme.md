@@ -18,19 +18,6 @@
 </p>
 
 <div align="center">
-<details>
-<summary markdown="span">Stats 📈 </summary>
-
-<div align="center">
-
-### Global
-![GitHub metrics](https://metrics.lecoq.io/1c2t1z)
----
-### Combo
-[![GitHub Streak](https://streak-stats.demolab.com?user=1c2t1z&theme=transparent&hide_border=true&border_radius=15&card_width=500&fire=F44336&ring=2196F3&currStreakNum=F44336&dates=03A9F4&currStreakLabel=009688&sideLabels=009688&sideNums=F44336)](https://git.io/streak-stats)
-</div></details></div>
-
-<div align="center">
   
 <details>
 <summary markdown="span">Outils 🛠️ (en cours de creation)</summary>

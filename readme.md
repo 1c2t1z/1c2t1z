@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <!-- ### Frontend Development -->
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=materialdesign&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 <!-- ### Database -->
 <img src="https://img.shields.io/badge/MS SQL2016-4EA94B?style=flat&logo=microsoftsqlserver&logoColor=white" />
